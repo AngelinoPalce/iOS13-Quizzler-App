@@ -1,4 +1,4 @@
-# iOS13-Destini-App
+# iOS13-Quizzler-App
 
 
 Learning to Code While Building Apps - I am one of the students of the App Brewery in the course, "iOS 13 &amp; Swift 5 - The Complete iOS App Development Bootcamp". This project we are uploading the finished product coming from this module. 
@@ -24,6 +24,6 @@ Our Goal
 - The Use of Mutating Functions/Immutability
 
 Our Mission
-- We will create what was instructed to us. This App is like a True or False Question. The app is about creating your own adventure and choose how you want the story goes. The App will story depending on what the user chooses.
+- We will create what was instructed to us. This App is like a Fun Fact Questionnaire in which you answer about some Random Fun Facts.
 
 This project is coming from the App Brewery's Complete App Development Bootcamp.
